@@ -1,0 +1,43 @@
+return {
+    --"Chas. Culottes +1",
+    --"Chass. Bottes +1",
+    --"Chass. Tricorne +1",
+    --"Chasseur's Frac +1",
+    --"Chasseur's Gants +1",
+	
+	"Navarch's Frac +1",
+	"Nvrch. Gants +1",
+	"Navarch's Tricorne",
+	"Navarch's Culottes",
+	--"Navarch's Bottes",
+    
+	--"Laksa. Bottes +3",
+    --"Laksa. Frac +3",
+    --"Laksa. Gants +3",
+    --"Laksa. Trews +3",
+    --"Laksa. Tricorne +3",
+    
+	--"Lanun Frac",
+	"Lanun Boots +1",
+	"Lanun Gants +1",
+    "Lanun Trews +1",
+    "Lanun Tricorne +1",
+    
+	"Meg. Chausses +2",
+    "Meg. Cuirie +2",
+    "Meg. Gloves +2",
+    "Meg. Jam. +2",
+    "Meghanada Visor +2",
+	--"Meghanada Ring",
+    
+	--"Mummu Bonnet +2",
+    --"Mummu Gamash. +2",
+    --"Mummu Jacket +2",
+    --"Mummu Kecks +2",
+    --"Mummu Ring",
+    --"Mummu Wrists +2",
+    --"Naegling",
+	--"Tauret",
+	--"Kaja Sword",
+	"Kaja Knife",	
+}

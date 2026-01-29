@@ -1,0 +1,16 @@
+sets.exported={
+    main="Naegling",
+    range="Compensator",
+    ammo="Eminent Bullet",
+    head="Meghanada Visor +2",
+    body="Meg. Cuirie +2",
+    hands="Meg. Gloves +2",
+    legs="Mummu Kecks",
+    feet="Meg. Jam. +2",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    left_ear="Etiolation Earring",
+    right_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Camulus's Mantle", augments={'INT+20','Eva.+20 /Mag. Eva.+20','"Snapshot"+10',}},
+}

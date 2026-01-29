@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Grioavolr", augments={'Mag. Acc.+5','MND+10','"Refresh"+1',}},
+    sub="Khonsu",
+    ammo="Sancus Sachet +1",
+    head="Convoker's Horn +3",
+    body="Shomonjijoe +1",
+    hands={ name="Merlinic Dastanas", augments={'MND+9','AGI+2','"Refresh"+2','Accuracy+14 Attack+14',}},
+    legs="Assid. Pants +1",
+    feet="Convo. Pigaches +3",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Regal Belt",
+    left_ear="Ethereal Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Campestres's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','"Fast Cast"+10','Damage taken-5%',}},
+}

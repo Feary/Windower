@@ -1,0 +1,35 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <Roll_ind_1>17</Roll_ind_1>
+        <Roll_ind_2>19</Roll_ind_2>
+        <displayx>500</displayx>
+        <displayy>19</displayy>
+        <showdisplay>true</showdisplay>
+    </global>
+    <aniyah>
+        <Roll_ind_2>4</Roll_ind_2>
+    </aniyah>
+    <dasmir>
+        <Roll_ind_1>25</Roll_ind_1>
+        <Roll_ind_2>1</Roll_ind_2>
+    </dasmir>
+    <helyah>
+        <Roll_ind_1>8</Roll_ind_1>
+        <Roll_ind_2>12</Roll_ind_2>
+    </helyah>
+    <molyoly>
+        <Roll_ind_2>11</Roll_ind_2>
+    </molyoly>
+    <oasus>
+        <Roll_ind_1>8</Roll_ind_1>
+        <Roll_ind_2>12</Roll_ind_2>
+    </oasus>
+    <olymoly>
+        <Roll_ind_2>27</Roll_ind_2>
+    </olymoly>
+    <yerp>
+        <Roll_ind_1>27</Roll_ind_1>
+        <Roll_ind_2>17</Roll_ind_2>
+    </yerp>
+</settings>

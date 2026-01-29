@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'Enh. Mag. eff. dur. +5','Mag. Acc.+20','"Mag.Atk.Bns."+15',}},
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Telchine Cap", augments={'Enh. Mag. eff. dur. +10',}},
+    body={ name="Telchine Chas.", augments={'Enh. Mag. eff. dur. +9',}},
+    hands={ name="Telchine Gloves", augments={'Pet: "Regen"+2','Enh. Mag. eff. dur. +10',}},
+    legs={ name="Telchine Braconi", augments={'Enh. Mag. eff. dur. +10',}},
+    feet={ name="Telchine Pigaches", augments={'Enh. Mag. eff. dur. +10',}},
+    neck={ name="Bagua Charm +2", augments={'Path: A',}},
+    waist="Embla Sash",
+    left_ear="Andoaa Earring",
+    right_ear="Mimir Earring",
+    left_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    right_ring="Defending Ring",
+    back={ name="Fi Follet Cape +1", augments={'Path: A',}},
+}

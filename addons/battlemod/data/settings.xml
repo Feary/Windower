@@ -1,0 +1,36 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <cancelmulti>true</cancelmulti>
+        <commamode>false</commamode>
+        <condensebattle>true</condensebattle>
+        <condensebuffs>true</condensebuffs>
+        <condensecrits>false</condensecrits>
+        <condensedamage>true</condensedamage>
+        <condensetargetname>false</condensetargetname>
+        <condensetargets>true</condensetargets>
+        <crafting>true</crafting>
+        <line_aoe>AOE ${numb} ¨ ${target}</line_aoe>
+        <line_aoebuff>${actor} ${abil} ¨ ${target} (${status})</line_aoebuff>
+        <line_full>[${actor}] ${number} ${abil} ¨ ${target}</line_full>
+        <line_item>[${actor}] ${abil} ¨ ${target} (${item2})</line_item>
+        <line_itemnum>[${actor}] ${abil} ¨ ${target} (${numb} ${item2})</line_itemnum>
+        <line_noabil>AOE ${number} ¨ ${target}</line_noabil>
+        <line_noability>${numb} ¨ ${target}</line_noability>
+        <line_noactor>${abil} ${number} ¨ ${target}</line_noactor>
+        <line_nonumber>[${actor}] ${abil} ¨ ${target}</line_nonumber>
+        <line_notarget>[${actor}] ${abil} ¨ ${number}</line_notarget>
+        <line_roll>${actor} ${abil} ¨ ${target} ª ${number}</line_roll>
+        <line_steal>[${actor}] ${abil} ¨ ${target} (${item})</line_steal>
+        <oxford>true</oxford>
+        <showblocks>true</showblocks>
+        <showcritws>false</showcritws>
+        <showguards>true</showguards>
+        <showownernames>false</showownernames>
+        <showrollinfo>false</showrollinfo>
+        <sumdamage>true</sumdamage>
+        <supersilence>true</supersilence>
+        <swingnumber>true</swingnumber>
+        <targetnumber>true</targetnumber>
+    </global>
+</settings>

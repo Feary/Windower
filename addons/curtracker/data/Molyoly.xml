@@ -1,0 +1,32 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <curfields>daily tally,silver a.m.a.n. vouchers stored,mystical canteens,login points</curfields>
+        <curlines>2</curlines>
+        <currefresh>60</currefresh>
+        <curtracking>true</curtracking>
+        <field_color>
+            <blue>255</blue>
+            <green>255</green>
+            <red>0</red>
+        </field_color>
+        <pos>
+            <x>1432</x>
+            <y>50</y>
+        </pos>
+        <text>
+            <size>10</size>
+        </text>
+        <value_color>
+            <blue>255</blue>
+            <green>255</green>
+            <red>255</red>
+        </value_color>
+    </global>
+    <molyoly>
+        <pos>
+            <x>1394</x>
+            <y>66</y>
+        </pos>
+    </molyoly>
+</settings>

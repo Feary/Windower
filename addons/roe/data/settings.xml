@@ -1,0 +1,20 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <blacklist />
+        <clear>true</clear>
+        <clearall>false</clearall>
+        <clearprogress>false</clearprogress>
+        <profiles>
+            <ambuscade>16,3998,12,3758,3760</ambuscade>
+            <daily>4083,16,12,4084,4082</daily>
+            <deeds>3779,3782,3788,12,16,3785</deeds>
+            <default />
+            <exo>889,888,901</exo>
+            <exp>889,888,901</exp>
+            <monthly>3775,3778,12,3768,3776,3995,3769,3027,3771,3770,16,3777</monthly>
+            <trove>3774,3775,3768,3776,3769,3777,3770,3778,3771,3772,3773</trove>
+            <vagary>3403,3406,3408,3405,3409,3400,3407,16,3402,3401,12,3404</vagary>
+        </profiles>
+    </global>
+</settings>

@@ -1,0 +1,29 @@
+_addon.name = 'FuckOff'
+_addon.version = '0.10'
+_addon.author = 'Chiaia (Asura)'
+_addon.commands = {'fuckoff','fo'} --Won't do anything atm.
+ 
+packets = require('packets')
+ 
+local blackListedUsers = T{'Shoih','Fczjsw','Fczjsk','Cooldoghhb','Kimeaeaeonic','Donyeah','Sixgodccv','Doireid','Blueb','Shmilymomonn','Xxgggp','Jwidoaela','Shmilynonm','Perradd','Franceismlhrtys','Snkoneo','Yongdianli','Cooldogddcs','Sixgodnnc','Shmilywohan','Sixgodflbb','Cooldogdsb','Snkonel','Snkonei','Numaduh','Paste','Kimeaeaonic','Ahnjak','Ugtooe','Kimeaeaonic','Shmilymihu','Uailaimaia','Abiea','Cooldogsdc','Smoketwok','Snkonek','Jejantsg','Rpatcham','Kimaeonicaone','Chiuprikgxfohj','Buynlarge','Snkonej','Halashaoo','Exaiss','Byameebnijrw','Kimaaeoniccd','Snkoonee','Masxiaosan','Wuhahaa','Uailaimai','Borevinbmndfg','Balaboldaghilrt','Perfectasg','Nohnhonhov','Wakakcnill','Craooiifdge','Xggp','Kimaeaeonicc','Brakawnljoigk','Halashaoa','Fczjsd','Eekaa','Belooo','Qyyqyy','Yson','Casasi','Siggs','Breannanerttw','Nigexiaojuesong','Breannaner','Kimaaeonicd','Bazhenkbjnws','Zainm','Oixinf','Vxcca','Snkonei','Nohnhnoh','Wakacivl','Cooldogabcde','Veet','Lucktoyou','Siggs','Malagebaxiazi','Smoketwoj','Smoketwoi','Ahimanenlsrhf','Yegege','Sasasa','Kimaeonicar','Hagreat','Wyfdcaa','Bestml','Shmilymomocc','Veet','Fuduiiiijii','Svipodyssey','Amphitryolkmg','Smoketwog','Perfectals','Fczjsrr','Couperjusdyjh','Kimouaeonicc','Kimaeonicar','Copelinyweryte','Nuowa','Junnmi','Shmilymomocc','Bogid','Blkuyfvim','Kimeoaeonic','Smoketwog','Fczjsrr','Kimaaeaeonic','Fornainojldry','Coenwulfwers','Sixgodg','Shmilymomoc','Fininnymjltrjy','Sixgodcbd','Sixgodabc','Sixgodacb','Dunleahrkltwyts','Veet','Smoketwof','Smokeetwof','Snkonef','Ochaking','Kimeaaeonic','Fczjsdd','Ardentpineabmq','Sixgodcba','Bichoahizovwer','Shmilynonone','Arcaneparwerc','Fczjsx','Sixgodg','Smoketwoe','Kimaaaeoniccc','Fczjsx','Vipodyssey','Cynhard','Cooldogabc','Daciosd','Craxigot','Perfectasq','Matchlessbab','Fczjshh','Sixgodg','Casasi','Kimaaaeoniccc','Smoketwoe','Eekr','Kimaaeoniccc','Aeoniucah','Cooldogsd','Oewmrat','Aecbxocbb','Deglemiellewar','Shmilywowwo','Cooldogsd','Healookml','Kimaeaeonic','Dalmore','Anicetos','Htbodyessnm','Crakjkjiii','Perfectasz','Vipmasterlvfast','fofoof','Sixgodzc','Aeonmackal','Kimaeaeonic','Earlekmjsashow','Snkoned','Fczjsee','Smoketwod','Aeonicnno','Shmilymomon','Znmkay','Shmilymamann','Dnfdahg','Smokatwoc','Smoketwoc','Lactan','Bibaap','Fczjsll','Fczjsii','Kimaeaeonic','Danoreno','Snkonec','Sixgodvv','Kimaaeonicxo','Craccy','Lurry','Jisu','Xiaoyvh','Nohonohonh','Shmilyminim','Sixgodss','Cooldogbb','Smoketwoa','Vipmlcpha','Vipexpsupera','Corkyildktyudrt','CorkyjIdktyudrt','Shmilyminimin','Asciliahdhd','Htbvdq','Blkuyfvxd','Croydendfglgwer','Kimaaeonicc','Sixgodss','Euhemenishkwer','Kimouaeonic','Vipmlcpgoods','Htbvdb','Smoketwoa','Sixgodcd','Shmilyminimini','Perfectaaa','Cooldogzz','Sixgodcc','Smokatwo','Hongan','Vipcoolmlcp','Viplocuscpml','Vxcc','Vipcoolpl','Viplocuspl','Smokeetwo','Kimeeaeonic','Sixgodcc','Shmilyminime','Aeonictell','Openeyedbunny','Astelljdlkftyii','Eeexp','Kuzurou','Koohoo','Kooboo','TotallyABotThree','Fudu','Blackjacky','Wowee','Fudoii','Shmilydoittt','Fudoa','Dhozs','Borzukmklrytu','Sixgoda','Meiod','Shmilynono','Bikepeliikekg','Odyessnm','Kdgl','Zirow','Cpttn','Bostjanmdfteryn','Rsdgwrg','Sixgodb','Shmilynuo'} -- Want to block all messages from X user then added there name(s) here.
+     
+-- I could do a general digit check on JP instead of set 500/2100 values but atm I feel it's not needed. Will see if they change thier tactics.
+-- If you want to learn more about "Magical Characters" or Patterns in Lua: <a href="https://riptutorial.com/lua/example/20315/lua-pattern-matching" rel="nofollow">https://riptutorial.com/lua/example/20315/lua-pattern-matching</a>
+local blackListedWords = T{string.char(0x81,0x99),string.char(0x81,0x9A),'King Ranperre\'s Tombk','znm*buy*','ZNM Buy?','Wanted*Buy?','UNM*Buy','selling*emp','1%-99','Job Point.*2100','Job Point.*500','JP.*2100','JP.*500','Capacity Point.*2100','Capacity Point.*500','CP.*2100','CP.*500','500p/4m','500p/5m','500p/3m','500/4m','500/5m','500/3m','4m/500p','1-50 1m','gilshop','fast delivery!','*99/1*','master*/*m','gil delivery','localgamers.shop','Fast Cast*buy','Masterlvl*buy','0-20','Mercencary Do you need it','selling*aeonic*buy?','odyssey*buy','Aeonic*buy','Aeonic*clear','*FAST DELIVERY!š','PRIMARYGIL','ffxipal','*FFXIPAL*','July2022','‚†‚†‚˜‚‰‚‚‚Œ.‚ƒ‚‚, ','Buy and Sell FF11 Gil','*WVVW.*','GET FAST DELIVERY!šREMA/SU5/Item/gil/Gil/','FAST DELIVERY!š','‚†‚†‚˜‚‰‚‚‚Œ.‚ƒ‚‚,','King Ranperre\'s Tomb 2100','99999','Autoinvite','autoinvite','Sarameya Tinnin Tyger Item and win Do you need it? Buy?','EMP Item Do you need it? Buy?','Reiki Yotai Telos Earring Do you need it? Buy? /tell','500/4m','3zone','500/3m', '50-99', '500p', 'ioniƒbkuuƒFpon','Aeonic/','delivery*discount', 'Lilith VD buy'}-- First two are '☆' and '★' symbols.
+ 
+windower.register_event('incoming chunk', function(id,data)
+    if id == 0x017 then -- 0x017 Is incoming chat.
+        local chat = packets.parse('incoming', data)
+        local cleaned = windower.convert_auto_trans(chat['Message']):lower()
+ 
+        if blackListedUsers:contains(chat['Sender Name']) then -- Blocks any message from X user in any chat mode.
+            return true
+        elseif (chat['Mode'] == 3 or chat['Mode'] == 1 or chat['Mode'] == 26) then -- RMT checks in tell, shouts, and yells. Years ago they use to use tells to be more stealthy about gil selling.
+            for k,v in ipairs(blackListedWords) do
+                if cleaned:match(v:lower()) then
+                    return true
+                end
+            end
+        end
+    end
+end)

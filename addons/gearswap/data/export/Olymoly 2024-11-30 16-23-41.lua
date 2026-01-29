@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'Enh. Mag. eff. dur. +6','Mag. Acc.+1',}},
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum +1",
+    head="Befouled Crown",
+    body="Shamash Robe",
+    hands={ name="Bagua Mitaines +3", augments={'Enhances "Curative Recantation" effect',}},
+    legs={ name="Assid. Pants +1", augments={'Path: A',}},
+    feet="Mallquis Clogs +2",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist={ name="Shinjutsu-no-Obi +1", augments={'Path: A',}},
+    left_ear="Ethereal Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Stikini Ring +1",
+    back="Moonbeam Cape",
+}

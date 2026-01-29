@@ -1,0 +1,15 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    head={ name="Merlinic Hood", augments={'Attack+18','STR+7','"Refresh"+2',}},
+    body="Shamash Robe",
+    hands={ name="Merlinic Dastanas", augments={'MND+9','AGI+2','"Refresh"+2','Accuracy+14 Attack+14',}},
+    legs="Assid. Pants +1",
+    feet={ name="Merlinic Crackows", augments={'STR+12','MND+1','"Refresh"+2','Accuracy+15 Attack+15','Mag. Acc.+20 "Mag.Atk.Bns."+20',}},
+    neck="Sibyl Scarf",
+    waist="Fucho-no-Obi",
+    left_ear="Ethereal Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+}

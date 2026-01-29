@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genbu's Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Befouled Crown",
+    body="Shamash Robe",
+    hands={ name="Bagua Mitaines +3", augments={'Enhances "Curative Recantation" effect',}},
+    legs="Assid. Pants +1",
+    feet="Merlinic Crackows",
+    neck="Sibyl Scarf",
+    waist={ name="Shinjutsu-no-Obi +1", augments={'Path: A',}},
+    left_ear="Ethereal Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring +1",
+    back={ name="Nantosuelta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10','Spell interruption rate down-2%',}},
+}

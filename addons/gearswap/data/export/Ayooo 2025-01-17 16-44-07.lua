@@ -1,0 +1,15 @@
+sets.exported={
+    sub="Genmei Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Volte Beret",
+    body="Shamash Robe",
+    hands={ name="Bagua Mitaines +1", augments={'Enhances "Curative Recantation" effect',}},
+    legs="Volte Brais",
+    feet="Nyame Sollerets",
+    waist="Carrier's Sash",
+    left_ear="Flashward Earring",
+    right_ear={ name="Azimuth Earring +1", augments={'System: 1 ID: 1676 Val: 0','Mag. Acc.+11','Damage taken-3%',}},
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Nantosuelta's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

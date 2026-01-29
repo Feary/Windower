@@ -1,0 +1,153 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <akilee>
+
+        </akilee>
+        <almontay>
+
+        </almontay>
+        <aniyah>
+            <face>6</face>
+            <race>2</race>
+        </aniyah>
+        <autoupdate>true</autoupdate>
+        <ayooo>
+       
+        </ayooo>
+        <blinking>
+            <all>
+                <always>true</always>
+                <combat>true</combat>
+                <target>true</target>
+            </all>
+            <follow>
+                <always>true</always>
+                <combat>true</combat>
+                <target>true</target>
+            </follow>
+            <others>
+                <always>true</always>
+                <combat>true</combat>
+                <target>true</target>
+            </others>
+            <party>
+                <always>true</always>
+                <combat>true</combat>
+                <target>true</target>
+            </party>
+            <self>
+                <always>true</always>
+                <combat>true</combat>
+                <target>true</target>
+            </self>
+        </blinking>
+        <casanoova>
+
+        </casanoova>
+        <dasmir>
+
+        </dasmir>
+        <dayanna>
+
+        </dayanna>
+        <deliah>
+
+        </deliah>
+        <drecien>
+
+        </drecien>
+        <feary>
+
+        </feary>
+        <fearyjunior>
+
+        </fearyjunior>
+        <gonzaloo>
+
+        </gonzaloo>
+        <helyah>
+
+        </helyah>
+        <kavita>
+
+        </kavita>
+        <mehany>
+
+        </mehany>
+        <midnightclamm>
+
+        </midnightclamm>
+        <molyoly>
+
+        </molyoly>
+        <mostmost>
+
+        </mostmost>
+        <oasus>
+
+        </oasus>
+        <olymoly>
+
+        </olymoly>
+        <others>
+
+        </others>
+        <perseise>
+
+        </perseise>
+        <profiles>
+
+        </profiles>
+        <ravindra>
+
+        </ravindra>
+        <replacements>
+            <body>
+
+            </body>
+            <face>
+
+            </face>
+            <feet>
+
+            </feet>
+            <hands>
+
+            </hands>
+            <head>
+
+            </head>
+            <legs>
+
+            </legs>
+            <main>
+
+            </main>
+            <race>
+
+            </race>
+            <ranged>
+
+            </ranged>
+            <sub>
+
+            </sub>
+        </replacements>
+        <suede>
+
+        </suede>
+        <symbio>
+
+        </symbio>
+        <watitdew>
+
+        </watitdew>
+        <worldkiller>
+
+        </worldkiller>
+        <yerp>
+
+        </yerp>
+    </global>
+</settings>

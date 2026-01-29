@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bolelabunga",
+    sub="Genmei Shield",
+    ammo="Per. Lucky Egg",
+    head="Wh. Rarab Cap +1",
+    body="Shamash Robe",
+    hands="Aya. Manopolas +2",
+    legs="Volte Hose",
+    feet="Malignance Boots",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Chaac Belt",
+    left_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Stikini Ring +1",
+    back={ name="Rosmerta's Cape", augments={'STR+20','Accuracy+20 Attack+20','Accuracy+10','Weapon skill damage +10%','Damage taken-5%',}},
+}
