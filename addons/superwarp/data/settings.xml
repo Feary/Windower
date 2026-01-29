@@ -1,0 +1,67 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <chat_log_use>log</chat_log_use>
+        <command_before_warp />
+        <command_delay_on_arrival>5</command_delay_on_arrival>
+        <command_on_arrival />
+        <debug>false</debug>
+        <default_packet_wait_timeout>5</default_packet_wait_timeout>
+        <enable_fast_retry_on_interrupt>false</enable_fast_retry_on_interrupt>
+        <enable_same_zone_teleport>true</enable_same_zone_teleport>
+        <favorites>
+            <homepoints>
+                <ahturhganwhitegate>2</ahturhganwhitegate>
+                <bastokmarkets>4</bastokmarkets>
+                <bastokmines>Auction House</bastokmines>
+                <easternadoulin>Auction House</easternadoulin>
+                <lowerjueno>1</lowerjueno>
+                <metalworks>1</metalworks>
+                <norg>Auction House</norg>
+                <portbastok>Mog House</portbastok>
+                <portjeuno>1</portjeuno>
+                <portsandoria>Mog House</portsandoria>
+                <portwindurst>Mog House</portwindurst>
+                <rabao>2</rabao>
+                <ruludegardens>Auction House</ruludegardens>
+                <upperjeuno>Auction House</upperjeuno>
+                <windurstwalls>Mog House</windurstwalls>
+                <windurstwoods>Entrance</windurstwoods>
+            </homepoints>
+            <waypoints>
+                <easternadoulin>6</easternadoulin>
+                <foretdehennetiel>4</foretdehennetiel>
+                <kamihrdrifts>fs</kamihrdrifts>
+                <marjamiravine>4</marjamiravine>
+                <westernadoulin>2</westernadoulin>
+            </waypoints>
+        </favorites>
+        <max_retries>6</max_retries>
+        <retry_delay>2</retry_delay>
+        <send_all_delay>0.4</send_all_delay>
+        <send_all_order_mode>melast</send_all_order_mode>
+        <shortcuts>
+            <homepoints>
+                <eado>
+                    <sub_zone>Mog House</sub_zone>
+                    <zone>Eastern Adoulin</zone>
+                </eado>
+                <wado>
+                    <zone>Western Adoulin</zone>
+                </wado>
+            </homepoints>
+            <waypoints>
+                <foretjp>
+                    <sub_zone>4</sub_zone>
+                    <zone>Foret de Hennetiel</zone>
+                </foretjp>
+            </waypoints>
+        </shortcuts>
+        <simulate_client_lock>false</simulate_client_lock>
+        <simulated_response_time>0</simulated_response_time>
+        <simulated_response_variation>0</simulated_response_variation>
+        <stop_autorun_before_warp>true</stop_autorun_before_warp>
+        <target_npc>true</target_npc>
+        <use_tabs_at_survival_guides>false</use_tabs_at_survival_guides>
+    </global>
+</settings>
