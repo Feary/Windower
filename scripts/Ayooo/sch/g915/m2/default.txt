@@ -1,0 +1,5 @@
+alias g15m2g1 input /target <p0>;gs c smartcure
+alias g15m2g2 input /target <p1>;gs c smartcure
+alias g15m2g3 input /target <p2>;gs c smartcure
+alias g15m2g4 input /target <p3>;gs c smartcure
+alias g15m2g5 input /target <p4>;gs c smartcure

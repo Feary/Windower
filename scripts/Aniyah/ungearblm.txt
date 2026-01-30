@@ -1,0 +1,6 @@
+put Culminus case all
+put Ghastly Tathlum case all
+put Hecate's Earring case all
+put Lathi case all
+put Sucellus case all
+put Zuuxowu Grip case all

@@ -1,0 +1,8 @@
+alias g915m1g1 input /targetnpc;wait 1;input /ma "Geo-Frailty" <stnpc>
+alias g915m1g2 input /targetnpc;wait 1;input /ma "Geo-Malaise" <stnpc>
+alias g915m1g3 input /targetnpc;wait 1;input /ma "Geo-Refresh" <stnpc>
+alias g915m1g4 input /targetnpc;wait 1;input /ma "Indi-Torpor" 
+alias g915m1g5 input /targetnpc;wait 1;input /ma "Indi-Acumen" 
+
+
+

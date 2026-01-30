@@ -1,0 +1,5 @@
+bind %home send @brd hordelullaby2 <tid>
+bind %!home send @brd nightingale;wait .5;troubadour
+bind %^home send @brd pianissimo
+bind %@home send @brd marcato
+bind %~home send @geo sleepga <tid>

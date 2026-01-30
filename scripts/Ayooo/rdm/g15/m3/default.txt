@@ -1,0 +1,20 @@
+alias g15m2g1 send Aniyah input /target <p0>;send Aniyah gs c smartcure
+alias g15m2g2 send Aniyah input /target <p1>;send Aniyah gs c smartcure
+alias g15m2g3 send Aniyah input /target <p2>;send Aniyah gs c smartcure
+alias g15m2g4 send Aniyah input /target <p3>;send Aniyah gs c smartcure
+alias g15m2g5 send Aniyah input /target <p4>;send Aniyah gs c smartcure
+alias g15m2g6 send Aniyah input /target <p5>;send Aniyah gs c smartcure
+
+alias g15m2g7 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g8 send Aniyah input /target <a11>;send Aniyah gs c smartcure
+alias g15m2g9 send Aniyah input /target <a12>;send Aniyah gs c smartcure
+alias g15m2g10 send Aniyah input /target <a13>;send Aniyah gs c smartcure
+alias g15m2g11 send Aniyah input /target <a14>;send Aniyah gs c smartcure
+alias g15m2g12 send Aniyah input /target <a15>;send Aniyah gs c smartcure
+
+alias g15m2g13 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g14 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g15 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g16 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g17 send Aniyah input /target <a10>;send Aniyah gs c smartcure
+alias g15m2g18 send Aniyah input /target <a10>;send Aniyah gs c smartcure

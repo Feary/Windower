@@ -1,0 +1,5 @@
+put Artio's Mantle case all
+put pet food* satchel all
+put *broth satchel all
+put Akamochi satchel all
+

@@ -1,0 +1,7 @@
+alias g915m2g1 /ma "Blindna" <p0>
+alias g915m2g2 /ma "Blindna" <p1>
+alias g915m2g3 /ma "Blindna" <p2>
+alias g915m2g4 /ma "Blindna" <p3>
+alias g915m2g5 /ma "Blindna" <p4>
+
+

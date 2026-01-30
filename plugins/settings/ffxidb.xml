@@ -1,0 +1,19 @@
+<settings>
+    <global>
+        <Scale>1</Scale>
+        <ZoomDefault>20</ZoomDefault>
+        <X>1125</X>
+        <Y>36</Y>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ColorPC>#FF006FB8</ColorPC>
+        <ShowNPC>true</ShowNPC>
+        <ColorNPC>#FF269D49</ColorNPC>
+        <ShowMob>true</ShowMob>
+        <ColorMob>#FFED1A20</ColorMob>
+        <ShowMarker>true</ShowMarker>
+        <ColorMarker>#FFB646AD</ColorMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges />
+    </global>
+</settings>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<autoexec>
+  <!--<register event="login_Derion">input //autoexec load derion_autoexec.xml;wait 5;input /echo Derion's Autoexec loaded</register>
+  <register event="login_Feary">input //autoexec load feary_autoexec.xml;wait 5;input /echo Feary's Autoexec loaded</register>
+  <register event="login_Tetas">input //autoexec load tetas_autoexec.xml;wait 5;input /echo Tetas's Autoexec loaded</register>
+  <register event="login_Aniyah">input //autoexec load Aniyah_autoexec.xml;wait 5;input /echo Aniyah's Autoexec loaded</register>
+  <register event="login_Firetoplay">input //autoexec load Firetoplay_autoexec.xml;wait 5;input /echo Firetoplay's Autoexec loaded</register>
+  <register event="login_Carrisa">input //autoexec load Carria_autoexec.xml;wait 5;input /echo Carrisa's Autoexec loaded</register>
+  <register event="login_Mitsura">input //autoexec load Mitsura_autoexec.xml;wait 5;input /echo Mitsura's Autoexec loaded</register>-->
+  </autoexec>

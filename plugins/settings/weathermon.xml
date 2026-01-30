@@ -1,0 +1,31 @@
+<settings>
+    <global>
+        <yTextOffset>-7</yTextOffset>
+        <fontSize>7</fontSize>
+        <textA>255</textA>
+        <textR>255</textR>
+        <textB>255</textB>
+        <backgroundA>127</backgroundA>
+        <backgroundB>0</backgroundB>
+        <trackClear>false</trackClear>
+        <trackSunshine>false</trackSunshine>
+        <trackClearSound />
+        <trackClouds>false</trackClouds>
+        <trackCloudsSound />
+        <trackFog>false</trackFog>
+        <trackFire>false</trackFire>
+        <trackFogSound />
+        <trackWaterSound />
+        <trackWater>false</trackWater>
+        <trackEarthSound />
+        <trackEarth>false</trackEarth>
+        <trackWind>false</trackWind>
+        <trackIceSound />
+        <trackIce>false</trackIce>
+        <trackThunder>false</trackThunder>
+        <trackThunderSound />
+        <trackLightSound />
+        <trackDark>false</trackDark>
+        <trackDarkSound></trackDarkSound>
+    </global>
+</settings>

@@ -1,0 +1,7 @@
+input /ma "Archer's Prelude";
+wait 4;
+input /ma "Hunter's Prelude";
+wait 5;
+input /ma "Valor Minuet V";
+wait 6;
+input /ma "Valor Minuet IV";

@@ -1,0 +1,89 @@
+//Numberpad
+bind %numpad0 send @whm gs c smartcure Olymoly
+bind %numpad1 send @whm gs c smartcure Oasus
+bind %numpad2 send @whm gs c smartcure Dasmir
+bind %numpad3 send @whm gs c smartcure Helyah
+bind %numpad4 send @whm gs c smartcure Yerp
+bind %numpad5 send @whm Curaga IV Olymoly
+bind %numpad6 send @whm Curaga IV Yerp
+bind %numpad7 
+bind %numpad8 
+bind %numpad9 
+bind %numpad/ 
+bind %numpad* 
+bind %numpad. send @whm Sacrosanctity me
+
+//alt
+bind %!numpad0 send @whm Curaga IV Olymoly
+bind %!numpad1 send @whm Curaga IV Oasus
+bind %!numpad2 send @whm Curaga IV Dasmir
+bind %!numpad3 send @whm Curaga IV Helyah
+bind %!numpad4 send @whm Curaga IV Yerp
+bind %!numpad5  
+bind %!numpad6  
+bind %!numpad7  
+bind %!numpad8  
+bind %!numpad9 
+bind %!numpad/ 
+bind %!numpad* 
+bind %!numpad. send @whm Divine Seal me
+
+//ctrl
+bind %^numpad0 send @whm gs c smartcure Olymoly
+bind %^numpad1 send @whm gs c smartcure Oasus
+bind %^numpad2 send @whm gs c smartcure Dasmir
+bind %^numpad3 send @whm gs c smartcure Helyah
+bind %^numpad4 send @whm gs c smartcure Yerp
+bind %^numpad5 
+bind %^numpad6 
+bind %^numpad7 
+bind %^numpad8 
+bind %^numpad9 
+bind %^numpad/ 
+bind %^numpad* 
+bind %^numpad. 
+
+//windows
+bind %@numpad0 send @whm gs c smartcure Olymoly
+bind %@numpad1 send @whm gs c smartcure Oasus
+bind %@numpad2 send @whm gs c smartcure Dasmir
+bind %@numpad3 send @whm gs c smartcure Helyah
+bind %@numpad4 send @whm gs c smartcure Yerp
+bind %@numpad5 
+bind %@numpad6 
+bind %@numpad7 
+bind %@numpad8 
+bind %@numpad9 
+bind %@numpad/ 
+bind %@numpad* 
+bind %@numpad. 
+
+//shift
+bind %~numpad0 send @whm gs c smartcure Olymoly
+bind %~numpad1 send @whm gs c smartcure Oasus
+bind %~numpad2 send @whm gs c smartcure Dasmir
+bind %~numpad3 send @whm gs c smartcure Helyah
+bind %~numpad4 send @whm gs c smartcure Yerp
+bind %~numpad5 
+bind %~numpad6 
+bind %~numpad7 
+bind %~numpad8 
+bind %~numpad9 
+bind %~numpad/ 
+bind %~numpad* 
+bind %~numpad. 
+
+//crtrlaltwin
+bind %!^@numpad0 send @whm gs c smartcure Olymoly
+bind %!^@numpad1 send @whm gs c smartcure Oasus
+bind %!^@numpad2 send @whm gs c smartcure Dasmir
+bind %!^@numpad3 send @whm gs c smartcure Helyah
+bind %!^@numpad4 send @whm gs c smartcure Yerp
+bind %!^@numpad5 
+bind %!^@numpad6 
+bind %!^@numpad7 
+bind %!^@numpad8 
+bind %!^@numpad9 
+bind %!^@numpad/ 
+bind %!^@numpad* 
+bind %!^@numpad. 

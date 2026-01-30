@@ -1,0 +1,18 @@
+put adad amulet safe2 all
+put	Animator P +1 safe2
+put	Animator P II +1 safe2
+put	Automat. Oil* safe2 all
+put	Bfn. Collar +1 safe2
+put	Dispersal Mantle safe2
+put	Enmerkar Earring safe2
+put	Guignol Earring	safe2
+put	Handler's Earring* safe2 all
+put	Incarnation Sash safe2
+put	Ohtas safe2
+put	Pratik Earring	safe2
+put	Regimen Mittens	safe2
+put	Shulmanu Collar	safe2
+put	Sroda Earring safe2
+put	udug jacket	safe2 all
+put	Varar Ring +1 safe2 all
+put	Visucius's Mantle case all

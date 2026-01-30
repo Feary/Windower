@@ -1,0 +1,32 @@
+put Acad. Bracers +2 case all
+put Acad. Gown +2 case all
+put Acad. Loafers +2 case all
+put Acad. Mortar. +2 case all
+put Acad. Pants +2 case all
+put Arbatel Bonnet +1 case all
+put Arbatel Bracers +1 case all
+put Arbatel Gown +1 case all
+put Arbatel Loafers +1 case all
+put Arbatel Pants +1 case all
+put Culminus case all
+put Ghastly Tathlum case all
+put Hecate's Earring case all
+put Jhakri Coronal +2 case all
+put Jhakri Cuffs +2 case all
+put Jhakri Pigaches +2 case all
+put Jhakri Robe +2 case all
+put Jhakri Slops +2 case all
+put Lugh's Cape case all
+put Mall. Chapeau +2 case all
+put Mallquis Clogs +2 case all
+put Mallquis Cuffs +2 case all
+put Mallquis Saio +2 case all
+put Mallquis Trews +2 case all
+put Peda. Bracers +1 case all
+put Peda. Gown +1 case all
+put Peda. Loafers +1 case all
+put Peda. M.Board +1 case all
+put Peda. Pants +1 case all
+put Sucellus case all
+put Savant's Treatise case all
+put Savant's Earring case all

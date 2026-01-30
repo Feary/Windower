@@ -1,0 +1,8 @@
+wait 1
+input /ma "Honor March";
+wait 3;
+input /ma "Victory March";
+wait 4;
+input /ma "Sword Madrigal";
+wait 5;
+input /ma "Blade Madrigal";

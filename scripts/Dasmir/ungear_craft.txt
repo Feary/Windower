@@ -1,0 +1,16 @@
+lua load gearswap
+put Craftmaster's Ring satchel all
+put Goldsm. Torque satchel all
+put Artificer's Ring satchel all
+put Coconut Rusk satchel all
+put Shaded Specs. satchel all
+put Goldsmith's Ring satchel all
+put Orvail Ring satchel all
+put Goldsmith's Smock satchel all
+put Craftkeeper's Ring satchel all
+put Toreutic Shield satchel all
+put Tanner's Gloves satchel all
+put Magnifying Specs. satchel all
+put Goldsmith's Belt satchel all
+
+

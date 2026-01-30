@@ -1,0 +1,18 @@
+get	adad amulet safe2 all
+get	Animator P +1 safe2
+get	Animator P II +1 safe2
+get	Automat. Oil* safe2 all
+get	Bfn. Collar +1 safe2
+get	Dispersal Mantle safe2
+get	Enmerkar Earring 
+get	Guignol Earring
+get	Handler's Earring* all 
+get	Incarnation Sash 
+get	Ohtas 
+get	Pratik Earring 
+get	Regimen Mittens 
+get	Shulmanu Collar
+get	Sroda Earring 
+get	udug jacket
+get	Varar Ring +1 all
+get	Visucius's Mantle all

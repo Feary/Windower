@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <launcher>
+    <branch>stable</branch>
+  </launcher>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+  </profile>
+</settings>

@@ -1,0 +1,8 @@
+wait 1
+input /ma "Honor March";
+wait 4;
+input /ma "Victory March";
+wait 5;
+input /ma "Valor Minuet V";
+wait 6;
+input /ma "Valor Minuet IV";

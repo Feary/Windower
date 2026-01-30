@@ -1,0 +1,7 @@
+input /ma "Knight\'s Minne IV";
+wait 4;
+input /ma "Knight\'s Minne V";
+wait 5;
+input /ma "Mage\'s Ballad III";
+wait 6;
+input /ma "Mage\'s Ballad II"

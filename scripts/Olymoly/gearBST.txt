@@ -1,0 +1,5 @@
+get Artio's Mantle all
+get pet food* satchel all
+get *broth satchel all
+get Akamochi satchel all
+

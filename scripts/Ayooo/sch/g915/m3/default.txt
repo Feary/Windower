@@ -1,0 +1,5 @@
+alias g15m3g1 /ma "Cure VI" <p0>
+alias g15m3g2 /ma "Cure VI" <p1>
+alias g15m3g3 /ma "Cure VI" <p2>
+alias g15m3g4 /ma "Cure VI" <p3>
+alias g15m3g5 /ma "Cure VI" <p4>
